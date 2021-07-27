@@ -62,13 +62,13 @@ A lista a seguir contém os componentes utilizados na montagem da fonte, além d
 [7]: https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html
 [8]: https://www.baudaeletronica.com.br/transistor-npn-2n2222.html
 
-* Alguns dos valores dos componenetes foram alterados para atender à disponibilidade do mercado. O funcionamento da fonte não é prejudicado ao utilizar-se esses componentes.
+* Alguns dos valores dos componenetes foram alterados para atender à disponibilidade do mercado. O funcionamento da fonte não é prejudicado ao utilizar-se desses componentes.
 
 ## Vídeo explicativo
 
 Também foi gravado, pelos integrantes do grupo, um vídeo explicando o funcionamento do circuito e dos componentes que o compõem, além dos calculos realizados para a escolha daqueles.
 
-* [Vídeo do projeto](https://youtube.com)
+* [Vídeo do projeto](https://youtu.be/JVlfiyRQYMs)
 
 ---
 
