@@ -35,6 +35,7 @@ A partir desse esquemático, o mesmo software foi utilizado para montar o modelo
 
 ![Esquemático da placa de circuito no EAGLE](assets/pcb_eagle.png)
 
+* O transformador foi deixado de fora do esquemático pois ocupa muito espaço. O jumper JP1 representa os pontos de conexão da bobina secundária.
 * Os arquivos do projeto no EAGLE estão no repositório do projeto.
 
 ## Componentes utilizados
